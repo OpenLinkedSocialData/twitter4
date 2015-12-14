@@ -1,0 +1,79 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tw: <http://purl.org/socialparticipation/tw/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#MAMA2015_tw> a po:Snapshot ;
+    rdfs:label "Snapshot MAMA2015_tw"^^xsd:string ;
+    po:acquiredThrough "Twitter search engine"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/twitter4/tree/master/MAMA2015_tw"^^xsd:string ;
+    po:createdAt "2015-12-03"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twMeta.ttl"^^xsd:string ;
+    po:donatedBy "labMacambira.sf.net"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00000.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00001.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00002.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00003.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00004.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00005.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00006.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00007.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00008.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00009.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00010.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00011.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00012.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00013.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00014.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00015.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00016.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00017.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00018.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00019.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00020.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00021.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00022.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00023.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00024.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00025.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00026.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00027.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T06:18:45.240179"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00000.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00001.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00002.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00003.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00004.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00005.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00006.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00007.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00008.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00009.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00010.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00011.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00012.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00013.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00014.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00015.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00016.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00017.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00018.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00019.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00020.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00021.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00022.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00023.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00024.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00025.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00026.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter4/master/rdf/MAMA2015_twTranslate00027.ttl"^^xsd:string ;
+    tw:nMessages 107380 ;
+    tw:nParticipants 107380 ;
+    tw:nReTweets 90515 ;
+    tw:nReplies 426 ;
+    rdfs:comment "The Twitter messages related to tweets with the #MAMA2015_tw hashtag"^^xsd:string .
+
